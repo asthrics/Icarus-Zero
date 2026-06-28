@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\bin\Debug\net10.0\Icarus-Zero Reactor.exe
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\bin\Debug\net10.0\Icarus-Zero Reactor.deps.json
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\bin\Debug\net10.0\Icarus-Zero Reactor.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\bin\Debug\net10.0\Icarus-Zero Reactor.dll
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\bin\Debug\net10.0\Icarus-Zero Reactor.pdb
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.sourcelink.json
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.dll
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\refint\Icarus-Zero Reactor.dll
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.pdb
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\Icarus-Zero Reactor.genruntimeconfig.cache
+C:\Users\sebas\Documents\GitHub Clones\Icarus-Zero\Icarus-Zero Reactor\Icarus-Zero Reactor\obj\Debug\net10.0\ref\Icarus-Zero Reactor.dll
