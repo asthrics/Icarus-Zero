@@ -10,3 +10,5 @@ This project is still in development and made by a beginner programmer. The code
 
 If something breaks, it’s just the code becoming self-aware or something.
 Either way, you know you've found the current limits of my knowledge if the code ends up eating you.
+
+PS.: Thanks ChatGPT for the ReadMe
