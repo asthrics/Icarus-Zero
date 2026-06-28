@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\sebas\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)onigwrap\1.0.11\buildTransitive\netstandard1.0\Onigwrap.props" Condition="Exists('$(NuGetPackageRoot)onigwrap\1.0.11\buildTransitive\netstandard1.0\Onigwrap.props')" />
+  </ImportGroup>
 </Project>
