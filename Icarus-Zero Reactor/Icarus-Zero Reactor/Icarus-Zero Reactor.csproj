@@ -9,11 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="SimulationUI\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Terminal.Gui" Version="2.4.16" />
   </ItemGroup>
 
