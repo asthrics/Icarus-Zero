@@ -9,7 +9,7 @@ internal class Program
         using IApplication app = Application.Create();
         app.Init();
 
-        // Step 1: Create the root window
+        // Root Window
         var root = new Window()
         {
             Title = "My First Window"
@@ -17,24 +17,35 @@ internal class Program
         };
         // --------------------------------
 
-        // Step 2: These are all your "Elements" that you can add to the root window. You can create buttons, labels, text fields, etc.
+        // Elements
         var label = new Label()
         {
-            X = 2 /*X Coordinate*/, Y = 1 /*Y Coordinate*/, Text = "Hello, ICARUS-ZERO!"
+            X = 2 , Y = 1 , Text = "Hello, ICARUS-ZERO!"
         };
-        var testLabel = new Label()
+        var statusLabel = new Label() // here we added a Label to show the status of the button click
         {
-            X = 2,
-            Y = 2,
-            Text = "This is a test label."
+            X = 2 ,
+            Y = 5, 
+            Text = "Status: No button was clicked yet..." // FIrst thing that stands there. you can leave this empty (or out, not sure yet)
+        };
+        var button = new Button() // thats a button. Its under the label and above the status label.
+        {
+            X = 2, Y = 3, // IMPORTANT: Make sure you leave atleast 2 spaces! if only 1 space is left, itll bug.
+            Text = "Click Me!"
         };
         // --------------------------------
+        // Button Click Events
+        button.Accepting += (_,_) => // button.Accepting = sees if the button is pressed. += (_,_) => is basically just random ahh shit. ignore that ig. the _,_ is basically empty because usually theres data to save. idk
+        {
+            statusLabel.Text = "Status: Button Clicked!";
+        };
 
-        // Here we connect all the elements together
+        // Connecting Elements to Root Window
         root.Add(label);
-        root.Add(testLabel);
+        root.Add(statusLabel);
+        root.Add(button);
         // --------------------------------
 
-        app.Run(root); /*<- This just runs the whole things (always comes at the end)*/
+        app.Run(root); 
     }
 }
