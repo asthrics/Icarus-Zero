@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Icarus-Zero Reactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5fdac98bce6fb637f4cbd21d1008aca9106a58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cbc59c43eb970c390758d782786fdbd77ce3558")]
 [assembly: System.Reflection.AssemblyProductAttribute("Icarus-Zero Reactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Icarus-Zero Reactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
