@@ -1,0 +1,37 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio workspace and user-specific settings
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test and coverage output
+TestResults/
+**/TestResults/
+coverage/
+**/coverage/
+*.coverage
+*.coveragexml
+
+# NuGet packages and locally created packages
+packages/
+*.nupkg
+*.snupkg
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.temp
