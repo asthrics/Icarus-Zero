@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebas\\Documents\\GitHub Clones\\Icarus-Zero\\Icarus-Zero Reactor\\myproj\\myproj.csproj": {}
+    "/home/sebastianlercher/Dokumente/GitHub Clones/Icarus-Zero/Icarus-Zero Reactor/myproj/myproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebas\\Documents\\GitHub Clones\\Icarus-Zero\\Icarus-Zero Reactor\\myproj\\myproj.csproj": {
+    "/home/sebastianlercher/Dokumente/GitHub Clones/Icarus-Zero/Icarus-Zero Reactor/myproj/myproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebas\\Documents\\GitHub Clones\\Icarus-Zero\\Icarus-Zero Reactor\\myproj\\myproj.csproj",
+        "projectUniqueName": "/home/sebastianlercher/Dokumente/GitHub Clones/Icarus-Zero/Icarus-Zero Reactor/myproj/myproj.csproj",
         "projectName": "myproj",
-        "projectPath": "C:\\Users\\sebas\\Documents\\GitHub Clones\\Icarus-Zero\\Icarus-Zero Reactor\\myproj\\myproj.csproj",
-        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebas\\Documents\\GitHub Clones\\Icarus-Zero\\Icarus-Zero Reactor\\myproj\\obj\\",
+        "projectPath": "/home/sebastianlercher/Dokumente/GitHub Clones/Icarus-Zero/Icarus-Zero Reactor/myproj/myproj.csproj",
+        "packagesPath": "/home/sebastianlercher/.nuget/packages/",
+        "outputPath": "/home/sebastianlercher/Dokumente/GitHub Clones/Icarus-Zero/Icarus-Zero Reactor/myproj/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/sebastianlercher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib64/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,11 +39,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Terminal.Gui": {
@@ -73,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.109/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
