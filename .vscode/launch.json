@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Icarus-Zero Reactor",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build Icarus-Zero Reactor",
+      "program": "${workspaceFolder}/Icarus-Zero Reactor/Icarus-Zero Reactor/bin/Debug/net10.0/Icarus-Zero Reactor.dll",
+      "cwd": "${workspaceFolder}/Icarus-Zero Reactor/Icarus-Zero Reactor",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "stopAtEntry": false
+    }
+  ]
+}

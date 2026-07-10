@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build Icarus-Zero Reactor",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "${workspaceFolder}/Icarus-Zero Reactor/Icarus-Zero Reactor/Icarus-Zero Reactor.csproj"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "run Icarus-Zero Reactor",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "${workspaceFolder}/Icarus-Zero Reactor/Icarus-Zero Reactor/Icarus-Zero Reactor.csproj"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}
